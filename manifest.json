@@ -1,6 +1,6 @@
 {
-  "name": "Timelapse Companion",
-  "short_name": "Timelapse",
+  "name": "Timelapse Sync",
+  "short_name": "Timelapse Sync",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
